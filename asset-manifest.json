@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fcfc1366.css",
-    "main.js": "/portfolio/static/js/main.f2027679.js",
+    "main.js": "/portfolio/static/js/main.c6fde4c7.js",
     "static/media/InteraConstruction.png": "/portfolio/static/media/InteraConstruction.b141738f0ee2a51020e8.png",
     "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/KnightRunner.png": "/portfolio/static/media/KnightRunner.15dbacbe447d02678acc.png",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.fcfc1366.css",
-    "static/js/main.f2027679.js"
+    "static/js/main.c6fde4c7.js"
   ]
 }
