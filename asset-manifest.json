@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.84784fac.css",
+    "main.css": "/portfolio/static/css/main.f1d5b841.css",
     "main.js": "/portfolio/static/js/main.a7dd58ba.js",
     "static/media/into_the_dream_small.gif": "/portfolio/static/media/into_the_dream_small.ad9d5cbdf92cd932ff17.gif",
     "static/media/EndlessNight.png": "/portfolio/static/media/EndlessNight.77e97ab6155cda389d1f.png",
@@ -11,7 +11,7 @@
     "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.84784fac.css",
+    "static/css/main.f1d5b841.css",
     "static/js/main.a7dd58ba.js"
   ]
 }
