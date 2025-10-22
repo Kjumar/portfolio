@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f1161292.css",
-    "main.js": "/portfolio/static/js/main.9b123bbe.js",
-    "static/media/InteraConstruction.png": "/portfolio/static/media/InteraConstruction.b141738f0ee2a51020e8.png",
+    "main.css": "/portfolio/static/css/main.15fe109f.css",
+    "main.js": "/portfolio/static/js/main.a7dd58ba.js",
+    "static/media/into_the_dream_small.gif": "/portfolio/static/media/into_the_dream_small.ad9d5cbdf92cd932ff17.gif",
+    "static/media/EndlessNight.png": "/portfolio/static/media/EndlessNight.77e97ab6155cda389d1f.png",
     "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/KnightRunner.png": "/portfolio/static/media/KnightRunner.15dbacbe447d02678acc.png",
     "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
@@ -10,7 +11,7 @@
     "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.f1161292.css",
-    "static/js/main.9b123bbe.js"
+    "static/css/main.15fe109f.css",
+    "static/js/main.a7dd58ba.js"
   ]
 }
