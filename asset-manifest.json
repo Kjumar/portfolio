@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e89512e5.css",
+    "main.css": "/portfolio/static/css/main.0668b579.css",
     "main.js": "/portfolio/static/js/main.c0bb7772.js",
     "static/media/into_the_dream_small.gif": "/portfolio/static/media/into_the_dream_small.ad9d5cbdf92cd932ff17.gif",
     "static/media/knightrunner_clip.gif": "/portfolio/static/media/knightrunner_clip.2aab013b5b21db6fc73d.gif",
@@ -12,7 +12,7 @@
     "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.e89512e5.css",
+    "static/css/main.0668b579.css",
     "static/js/main.c0bb7772.js"
   ]
 }
