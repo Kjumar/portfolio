@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4dcbaa64.css",
-    "main.js": "/portfolio/static/js/main.ae83f16b.js",
+    "main.js": "/portfolio/static/js/main.17db2163.js",
     "static/media/into_the_dream_small.gif": "/portfolio/static/media/into_the_dream_small.ad9d5cbdf92cd932ff17.gif",
     "static/media/knightrunner_clip.gif": "/portfolio/static/media/knightrunner_clip.2aab013b5b21db6fc73d.gif",
     "static/media/EndlessNight.png": "/portfolio/static/media/EndlessNight.77e97ab6155cda389d1f.png",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.4dcbaa64.css",
-    "static/js/main.ae83f16b.js"
+    "static/js/main.17db2163.js"
   ]
 }
